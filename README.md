@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Jordan Popowich>`
+- **CCID:** `<japopowi>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com
 
 ## Verbal Collaboration
 
